@@ -2,5 +2,4 @@ configuration:
   projectName: a-bootiful-client
 server:
   port: 8080
-message:
-  greeting: Hello from the configuration!
+message: Hello from the configuration!
